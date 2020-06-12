@@ -1,0 +1,450 @@
+Generating 100 threads
+access 10 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 309111032ns to generate and schedule 4000 requests. The thoughput was of 12940.334009 requests/s
+Generating 100 threads
+access 10 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 312526489ns to generate and schedule 4000 requests. The thoughput was of 12798.915103 requests/s
+Generating 100 threads
+access 10 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 314308014ns to generate and schedule 4000 requests. The thoughput was of 12726.369745 requests/s
+Generating 100 threads
+access 10 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 318785817ns to generate and schedule 4000 requests. The thoughput was of 12547.609670 requests/s
+Generating 100 threads
+access 10 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 322461518ns to generate and schedule 4000 requests. The thoughput was of 12404.580940 requests/s
+Generating 100 threads
+access 10 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 324627391ns to generate and schedule 4000 requests. The thoughput was of 12321.819141 requests/s
+Generating 100 threads
+access 10 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 324922863ns to generate and schedule 4000 requests. The thoughput was of 12310.614166 requests/s
+Generating 100 threads
+access 10 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 328256290ns to generate and schedule 4000 requests. The thoughput was of 12185.600465 requests/s
+Generating 100 threads
+access 10 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 328094730ns to generate and schedule 4000 requests. The thoughput was of 12191.600883 requests/s
+Generating 100 threads
+access 10 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 335551916ns to generate and schedule 4000 requests. The thoughput was of 11920.659097 requests/s
+Generating 100 threads
+access 20 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 311713025ns to generate and schedule 4000 requests. The thoughput was of 12832.315878 requests/s
+Generating 100 threads
+access 20 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 314281554ns to generate and schedule 4000 requests. The thoughput was of 12727.441204 requests/s
+Generating 100 threads
+access 20 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 322002483ns to generate and schedule 4000 requests. The thoughput was of 12422.264458 requests/s
+Generating 100 threads
+access 20 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 335372646ns to generate and schedule 4000 requests. The thoughput was of 11927.031163 requests/s
+Generating 100 threads
+access 20 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 334743301ns to generate and schedule 4000 requests. The thoughput was of 11949.454965 requests/s
+Generating 100 threads
+access 20 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 339145091ns to generate and schedule 4000 requests. The thoughput was of 11794.362077 requests/s
+Generating 100 threads
+access 20 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 339621046ns to generate and schedule 4000 requests. The thoughput was of 11777.833109 requests/s
+Generating 100 threads
+access 20 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 340292215ns to generate and schedule 4000 requests. The thoughput was of 11754.603319 requests/s
+Generating 100 threads
+access 20 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 341126554ns to generate and schedule 4000 requests. The thoughput was of 11725.853508 requests/s
+Generating 100 threads
+access 20 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 344877242ns to generate and schedule 4000 requests. The thoughput was of 11598.329820 requests/s
+Generating 100 threads
+access 50 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 319040599ns to generate and schedule 4000 requests. The thoughput was of 12537.589299 requests/s
+Generating 100 threads
+access 50 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 322977153ns to generate and schedule 4000 requests. The thoughput was of 12384.776950 requests/s
+Generating 100 threads
+access 50 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 328630275ns to generate and schedule 4000 requests. The thoughput was of 12171.733113 requests/s
+Generating 100 threads
+access 50 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 331063623ns to generate and schedule 4000 requests. The thoughput was of 12082.269758 requests/s
+Generating 100 threads
+access 50 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 332939633ns to generate and schedule 4000 requests. The thoughput was of 12014.189972 requests/s
+Generating 100 threads
+access 50 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 343716804ns to generate and schedule 4000 requests. The thoughput was of 11637.487471 requests/s
+Generating 100 threads
+access 50 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 345660575ns to generate and schedule 4000 requests. The thoughput was of 11572.045785 requests/s
+Generating 100 threads
+access 50 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 348567143ns to generate and schedule 4000 requests. The thoughput was of 11475.550924 requests/s
+Generating 100 threads
+access 50 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 347571849ns to generate and schedule 4000 requests. The thoughput was of 11508.411891 requests/s
+Generating 100 threads
+access 50 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 348910939ns to generate and schedule 4000 requests. The thoughput was of 11464.243602 requests/s
+Generating 100 threads
+access 70 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 316018487ns to generate and schedule 4000 requests. The thoughput was of 12657.487345 requests/s
+Generating 100 threads
+access 70 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 317602958ns to generate and schedule 4000 requests. The thoughput was of 12594.341140 requests/s
+Generating 100 threads
+access 70 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 319592821ns to generate and schedule 4000 requests. The thoughput was of 12515.925694 requests/s
+Generating 100 threads
+access 70 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 332582380ns to generate and schedule 4000 requests. The thoughput was of 12027.095362 requests/s
+Generating 100 threads
+access 70 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 339018505ns to generate and schedule 4000 requests. The thoughput was of 11798.765970 requests/s
+Generating 100 threads
+access 70 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 341139201ns to generate and schedule 4000 requests. The thoughput was of 11725.418798 requests/s
+Generating 100 threads
+access 70 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 342888924ns to generate and schedule 4000 requests. The thoughput was of 11665.585325 requests/s
+Generating 100 threads
+access 70 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 344957420ns to generate and schedule 4000 requests. The thoughput was of 11595.634035 requests/s
+Generating 100 threads
+access 70 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 346954426ns to generate and schedule 4000 requests. The thoughput was of 11528.891694 requests/s
+Generating 100 threads
+access 70 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 344159421ns to generate and schedule 4000 requests. The thoughput was of 11622.520715 requests/s
+Generating 100 threads
+access 100 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 327855333ns to generate and schedule 4000 requests. The thoughput was of 12200.503080 requests/s
+Generating 100 threads
+access 100 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 330333334ns to generate and schedule 4000 requests. The thoughput was of 12108.980803 requests/s
+Generating 100 threads
+access 100 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 339931289ns to generate and schedule 4000 requests. The thoughput was of 11767.083906 requests/s
+Generating 100 threads
+access 100 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 343194621ns to generate and schedule 4000 requests. The thoughput was of 11655.194328 requests/s
+Generating 100 threads
+access 100 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 352803199ns to generate and schedule 4000 requests. The thoughput was of 11337.765676 requests/s
+Generating 100 threads
+access 100 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 355778762ns to generate and schedule 4000 requests. The thoughput was of 11242.942039 requests/s
+Generating 100 threads
+access 100 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 358434606ns to generate and schedule 4000 requests. The thoughput was of 11159.636746 requests/s
+Generating 100 threads
+access 100 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 357229632ns to generate and schedule 4000 requests. The thoughput was of 11197.279402 requests/s
+Generating 100 threads
+access 100 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 358901263ns to generate and schedule 4000 requests. The thoughput was of 11145.126564 requests/s
+Generating 100 threads
+access 100 files
+Each one of them will issue 40 requests
+with 50 percent change of being sequential
+represented by 4 different server/application identifiers
+ 1048576 bytes every up to 10000ns
+Requests take up to 10000ns to be processed
+The used random seed is 1 
+It took 358874266ns to generate and schedule 4000 requests. The thoughput was of 11145.964977 requests/s
