@@ -1,0 +1,60 @@
+TestID              : 0
+StartTime           : Sat Jun 20 09:41:16 2020
+Path                : /GPUFS/sysu_hshen_2/hmm0619/ior-agios
+FS                  : 1730.9 TiB   Used FS: 10.3%   Inodes: 4394.2 Mi   Used Inodes: 10.9%
+
+Options: 
+api                 : MPIIO
+apiVersion          : (3.1)
+test filename       : testFile
+access              : file-per-process
+type                : independent
+segments            : 1
+ordering in a file  : random
+ordering inter file : no tasks offsets
+tasks               : 9
+clients per node    : 9
+repetitions         : 5
+xfersize            : 262144 bytes
+blocksize           : 1 GiB
+aggregate filesize  : 9 GiB
+
+Results: 
+
+access    bw(MiB/s)  block(KiB) xfer(KiB)  open(s)    wr/rd(s)   close(s)   total(s)   iter
+------    ---------  ---------- ---------  --------   --------   --------   --------   ----
+Created 4069 threads to process.
+write     0.000000   1048576    256.00     0.000007   0.128698   0.000305   0.128699   0   
+read      0.000000   1048576    256.00     0.000001   0.068150   0.000274   0.068150   0   
+[32msended 8192 requests.[0m
+remove    -          -          -          -          -          -          0.590980   0   
+[32mReceive Time(s): 49.740848[0m
+write     0.000000   1048576    256.00     0.000003   0.096430   0.001035   0.096431   1   
+read      0.000000   1048576    256.00     0.000001   0.104077   0.000818   0.104077   1   
+[32msended 8192 requests.[0m
+remove    -          -          -          -          -          -          0.547382   1   
+[32mReceive Time(s): 55.624310[0m
+write     0.000000   1048576    256.00     0.000002   0.095101   0.000262   0.095102   2   
+read      0.000000   1048576    256.00     0.000001   0.081044   0.000208   0.081044   2   
+[32msended 8192 requests.[0m
+remove    -          -          -          -          -          -          0.599009   2   
+[32mReceive Time(s): 56.215476[0m
+write     0.000000   1048576    256.00     0.000002   0.073046   0.001735   0.073048   3   
+read      0.000000   1048576    256.00     0.000001   0.079308   0.000724   0.079308   3   
+[32msended 8192 requests.[0m
+remove    -          -          -          -          -          -          0.820698   3   
+[32mReceive Time(s): 55.908204[0m
+write     0.000000   1048576    256.00     0.000002   0.070404   0.001989   0.070404   4   
+read      0.000000   1048576    256.00     0.000001   0.078450   0.001045   0.078450   4   
+[32msended 8192 requests.[0m
+remove    -          -          -          -          -          -          0.226159   4   
+[32mReceive Time(s): 64.610104[0m
+Max Write: 0.00 MiB/sec (0.00 MB/sec)
+Max Read:  0.00 MiB/sec (0.00 MB/sec)
+
+Summary of all tests:
+Operation   Max(MiB)   Min(MiB)  Mean(MiB)     StdDev   Max(OPs)   Min(OPs)  Mean(OPs)     StdDev    Mean(s) Test# #Tasks tPN reps fPP reord reordoff reordrand seed segcnt   blksiz    xsize aggs(MiB)   API RefNum
+write           0.00       0.00       0.00       0.00       0.00       0.00       0.00       0.00    0.09274     0      9   9    5   1     0        1         0    0      1 1073741824   262144       0.0 MPIIO      0
+read            0.00       0.00       0.00       0.00       0.00       0.00       0.00       0.00    0.08221     0      9   9    5   1     0        1         0    0      1 1073741824   262144       0.0 MPIIO      0
+Finished            : Sat Jun 20 09:45:58 2020
+Agios run and exit successfully with 368640 requests.
